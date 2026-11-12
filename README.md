@@ -38,7 +38,7 @@ my-website/
 └── README.md
 
 ## Author
-Rowin M. Arnes
+Justine Catherine R. Babasa
 
 ## Motto
 "Protect Nature, Protect Our Future."
